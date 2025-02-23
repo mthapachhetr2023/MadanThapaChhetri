@@ -1,4 +1,4 @@
-# MadanThapaChhetri
+# Flood Risk Modeling and Mapping using Deterministic and Probabilistic Approach
 - This repository consists of Python code that was used in my master's thesis titled: Evaluating the Impact of LiDAR DEM Uncertainties on Inundation Modeling in 
 Coastal Sub-Watersheds: An Exploration Via Deterministic and Probabilistic Approaches
 - GSS_Thesis.py simulates the error distribution and uses that as a correction factor for LiDAR DEM, and then corrected LiDAR DEM was used in bathtub modeling of inundation using the water level obtained from the Cascade 2001 modeling, and finally, after a series of iterations of modeling, probability of flood risk map was computed using the (total no. of flooded cell counts divided by no.of iterations) times 100.
